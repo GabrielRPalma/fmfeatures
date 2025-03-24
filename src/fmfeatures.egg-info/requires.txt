@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+hmmlearn
+mclustpy
+rpy2
+TA-Lib
+scikit-learn
+
+[dev]
+coverage
+mypy
+pytest
+ruff
